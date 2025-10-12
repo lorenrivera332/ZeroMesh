@@ -37,3 +37,5 @@ async def send_message(node_id: str, request: MessageRequest):
 def remove_node(node_id: str):
     RoutingTable.unregister(node_id)
     return {"status": f"Node {node_id} removed"}
+
+
