@@ -1,5 +1,5 @@
 """
-Простой REST API для управления узлом ZeroMesh через HTTP.
+A simple REST API for managing a ZeroMesh node via HTTP.
 Позволяет проверять статус, список пиров и отправлять сообщения.
 """
 
