@@ -1,6 +1,6 @@
 """
 A simple REST API for managing a ZeroMesh node via HTTP.
-Позволяет проверять статус, список пиров и отправлять сообщения.
+Allows you to check status, peer list, and send messages.
 """
 
 from fastapi import FastAPI, HTTPException
